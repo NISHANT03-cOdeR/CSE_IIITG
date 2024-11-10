@@ -24,7 +24,7 @@ A unique aspect addressed as a crucial requirement is the internship page. The i
 
 ![ss1](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/e936c74c2ab4116dc90ae6640d5aa984fb751dc8/images/ss1.jpg)
 ![ss2](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/a057855e23610a43ad844981071c8a7883edb8c2/images/ss2.jpg)
-
+![ss3](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/fdff6bca931b0277c6aa94741cebfd39baea0fde/images/ss3.jpg)
 ## Technology Stack
 
 **Frontend:** HTML, CSS
