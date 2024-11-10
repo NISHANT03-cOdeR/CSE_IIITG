@@ -19,9 +19,10 @@ A unique aspect addressed as a crucial requirement is the internship page. The i
 - **Class Diagram:** Demonstrates the project's structure by outlining classes, attributes, methods, and the relationships between them.
 
 - **Use Case Diagram:** Shows primary interactions between users and the system, highlighting key functionalities accessible to each user role. Here two actors are considered, namely a visitor and admin.
+  
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+[![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/e936c74c2ab4116dc90ae6640d5aa984fb751dc8/images/ss1.jpg)
 
 
 ## Technology Stack
