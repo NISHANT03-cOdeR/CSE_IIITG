@@ -120,8 +120,10 @@ If planning to deploy this project on a server:
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
-
+- [Sunidhi Shoudhary]()
+- [Pratiksha Sharma](https://github.com/Pritu345)
+- [Sonu Moni Rabha](https://github.com/SONUXO)
+- [Nishant Kashyap](https://www.github.com/octokatherine)
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
