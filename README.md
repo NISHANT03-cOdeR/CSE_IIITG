@@ -20,7 +20,7 @@ A unique aspect addressed as a crucial requirement is the internship page. The i
 
 - **Use Case Diagram:** Shows primary interactions between users and the system, highlighting key functionalities accessible to each user role. Here two actors are considered, namely a visitor and admin.
 
-![usecase](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/4aba058eb8a0c213e5c5d23a6b998385d023fbcf/images/WEBSITE_USE-CASE.jpg)
+![usecase](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/361b72be373b26a892da45b25603eaac68d37293/images/USECASE.jpg)
   
 ## Screenshots
 
