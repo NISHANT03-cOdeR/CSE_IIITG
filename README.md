@@ -22,7 +22,7 @@ A unique aspect addressed as a crucial requirement is the internship page. The i
   
 ## Screenshots
 
-[![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/e936c74c2ab4116dc90ae6640d5aa984fb751dc8/images/ss1.jpg)
+![ss1](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/e936c74c2ab4116dc90ae6640d5aa984fb751dc8/images/ss1.jpg)
 
 
 ## Technology Stack
