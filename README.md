@@ -16,7 +16,7 @@ A unique aspect addressed as a crucial requirement is the internship page. The i
 
 ## UML Diagrams
 
-- **Class Diagram:** Demonstrates the project's structure by outlining classes, attributes, methods, and the relationships between them.
+- **Class Diagram:** Demonstrates the project's structure by outlining classes, attributes, methods, and the relationships between them. Here each web pages are considered to be individual classes.
 
 ![classdiagram](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/15b96811fa345e402c5127246813188f95fa48f6/images/CLASSD.jpeg)
 
