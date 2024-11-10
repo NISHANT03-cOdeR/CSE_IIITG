@@ -125,8 +125,7 @@ If planning to deploy this project on a server:
 - [Sonu Moni Rabha](https://github.com/SONUXO)
 - [Nishant Kashyap](https://github.com/NISHANT03-cOdeR)
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+![Logo](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/a8944e179105adaaeaf9dae1f2874745d85161e9/images/iiitlogo.png)
 
 
 
