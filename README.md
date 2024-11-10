@@ -122,7 +122,7 @@ If planning to deploy this project on a server:
 
 ## Authors
 
-- [Sunidhi Choudhary]()
+- [Sunidhi Choudhary](https://github.com/sunidhi009)
 - [Pratiksha Jha](https://github.com/Pritu345)
 - [Sonu Moni Rabha](https://github.com/SONUXO)
 - [Nishant Kashyap](https://github.com/NISHANT03-cOdeR)
