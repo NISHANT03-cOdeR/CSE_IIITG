@@ -67,7 +67,7 @@ To work on this project, make sure the following software and versions are insta
 - Open a terminal and run the following command to clone the repository:
 
 ```bash
-  git clone <repository_url>
+  git clone https://github.com/NISHANT03-cOdeR/CSE_IIITG.git
 ```
   
 
