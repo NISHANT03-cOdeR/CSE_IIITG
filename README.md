@@ -2,7 +2,7 @@
 # IIIT-Guwahati Computer Science Department Website
 
 
-The CSE Department website serves as a comprehensive resource for students, faculty, and visitors, offering essential information about the department's academic programs, faculty profiles, internship opportunities, research initiatives, and events. Additionally, the website highlights information related to admission procedure, notable alumni accomplishments and facilitates easy access to contact information, making it an ideal platform for anyone seeking to learn more about the department’s offerings and community.
+The Computer Science Department website of the Indian Institute of Information Technology- Guwahati serves as a comprehensive resource for students, faculty, and visitors, offering essential information about the department's academic programs, faculty profiles, internship opportunities, research initiatives, and events. Additionally, the website highlights information related to admission procedure, notable alumni accomplishments and facilitates easy access to contact information, making it an ideal platform for anyone seeking to learn more about the department’s offerings and community.
 
 
 A unique aspect addressed as a crucial requirement is the internship page. The is a new, dedicated feature on the CSE department website, providing students with a centralized hub for accessing CSE-specific internship opportunities, resources, and guidance. Previously absent on the department’s website, this page fills a crucial gap, supporting students in finding relevant internships and preparing for industry.
