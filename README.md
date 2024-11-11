@@ -18,7 +18,7 @@ A unique aspect addressed as a crucial requirement is the internship page. The i
 
 - **Class Diagram:** Demonstrates the project's structure by outlining classes, attributes, methods, and the relationships between them. Here each web pages are considered to be individual classes.
 
-![classdiagram](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/ac95840ee7ffd8dfb04dc47b06c6f65242f49be7/images/DSS%20project.jpg)
+![classdiagram](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/859d694ca368c821822301fe0d331c9a4df0f261/images/DSS%20project%20(1).jpg)
 
 - **Use Case Diagram:** Shows primary interactions between users and the system, highlighting key functionalities accessible to each user role. Here two actors are considered, namely a visitor and admin.
 
