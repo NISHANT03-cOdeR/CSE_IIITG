@@ -43,7 +43,7 @@ This section provides an overview to the user on how to navigate the CSE departm
   
 - **Academics:** Description about the various courses available under the department.
 
-- **Admissions:** Learn about academic programs and their descriptions. Students interested in applying can use the "Apply()" feature to submit applications for specific programs.
+- **Admissions:** Students interested in applying can use the "Apply()" feature to submit applications for specific programs.
 
 - **Alumni:** View profiles of alumni, including their name, image, course, duration, and current position, to understand the career paths of graduates.
 
