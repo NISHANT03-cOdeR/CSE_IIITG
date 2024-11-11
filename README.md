@@ -31,7 +31,7 @@ This section provides an overview to the user on how to navigate the CSE departm
 
 - **Home Page:** The starting point of the website, displaying the department title, an "About" section, and a "Message from the HOD." Users can navigate to different sections from here.
 
-- **Faculty:** View detailed profiles of faculty members, including their names, designations, and contact information. 
+- **Faculty:** View detailed profiles of faculty members, including their names, designations, publications, and contact information. 
 
 - **Research:** Explore ongoing and completed research projects led by faculty members. Each project has details like the faculty name, project title, and funding amount.
 
