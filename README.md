@@ -39,7 +39,9 @@ This section provides an overview to the user on how to navigate the CSE departm
 
 - **Students:** Access information about different student groups, including B.Tech, M.Tech, and Ph.D. students. Each group has specific information, such as student roll numbers, names, and email addresses.
 
-- **Internships:** Browse available internships with details like title, faculty supervisor, and stipend. 
+- **Internships:** Browse available internships with details like title, faculty supervisor, and stipend.
+  
+- **Academics:** Description about the various courses available under the department.
 
 - **Admissions:** Learn about academic programs and their descriptions. Students interested in applying can use the "Apply()" feature to submit applications for specific programs.
 
