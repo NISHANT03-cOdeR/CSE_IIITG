@@ -24,6 +24,32 @@ A unique aspect addressed as a crucial requirement is the internship page. The i
 
 ![usecase](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/361b72be373b26a892da45b25603eaac68d37293/images/USECASE.jpg)
   
+
+## Usage
+
+This section provides an overview to the user on how to navigate the CSE department website and utilize its main features:
+
+- **Home Page:** The starting point of the website, displaying the department title, an "About" section, and a "Message from the HOD." Users can navigate to different sections from here.
+
+- **Faculty:** View detailed profiles of faculty members, including their names, designations, and contact information. 
+
+- **Research:** Explore ongoing and completed research projects led by faculty members. Each project has details like the faculty name, project title, and funding amount.
+
+- **Events:** Check the "Events" section to stay updated on upcoming departmental events, with options to display details about each event.
+
+- **Students:** Access information about different student groups, including B.Tech, M.Tech, and Ph.D. students. Each group has specific information, such as student roll numbers, names, and email addresses.
+
+- **Internships:** Browse available internships with details like title, faculty supervisor, and stipend. 
+
+- **Admissions:** Learn about academic programs and their descriptions. Students interested in applying can use the "Apply()" feature to submit applications for specific programs.
+
+- **Alumni:** View profiles of alumni, including their name, image, course, duration, and current position, to understand the career paths of graduates.
+
+
+
+
+
+
 ## Screenshots
 
 ![ss1](https://github.com/NISHANT03-cOdeR/CSE_IIITG/blob/e936c74c2ab4116dc90ae6640d5aa984fb751dc8/images/ss1.jpg)
